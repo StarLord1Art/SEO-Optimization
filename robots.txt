@@ -1,0 +1,10 @@
+User-agent: Yandex
+Disallow: /error
+Disallow: /bin
+Disallow: /admin/*
+
+User-agent: googlebot
+Disallow: /error
+Disallow: /bin
+Disallow: /admin/*
+Sitemap: https://site.com/sitemap.xml
